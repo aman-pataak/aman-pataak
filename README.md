@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amanj0314](https://medium.com/@amanj0314)
 
-- 💬 Ask me about **Php,Laravel,JavaScript,React JS, MYSQL**
+- 💬 Ask me about **Php, Laravel, Codeigniter, JavaScript, React JS, MYSQL**
 
 - 📫 How to reach me **devaman091996@gmail.com**
 
